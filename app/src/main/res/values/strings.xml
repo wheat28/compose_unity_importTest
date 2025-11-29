@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">unityTest1</string>
+    <string name="game_view_content_description">Game view</string>
+    <string name="unity_activity_name">Unity Player</string>
+    <string name="unity_game_view_content_description">Unity game view</string>
+</resources>

@@ -1,1 +1,2 @@
+*.so filter=lfs diff=lfs merge=lfs -text
 *.soя filter=lfs diff=lfs merge=lfs -text
